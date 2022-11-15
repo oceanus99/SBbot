@@ -45,12 +45,12 @@ Discord:
     custom_message: ${CUSTOM_MESSAGE}
     keyword_sets: ${KEYWORDS!ll}
     blackword_sets: ${BLACKWORDS!ll}
-    twitter_ids: '2801262933'
+    twitter_ids: ${TWITTER_ID!l}
     twitter_handles: ${TWITTER_HANDLE!l}
     twitter_lists: ${TWITTER_LIST!l}
     track: ${TRACK!l}
     location: ${LOCATION!fl}
-    webhook_urls: 'https://discord.com/api/webhooks/1041909322000646194/6XLOsAMCZ2c0W-TdAwWLTzOHkC-LjEiceiN0nr8kP4HOKuax7Vyx-1DNYGWiQcl5tyKQ'
+    webhook_urls: ${WEBHOOK_URL_10!wh}
 
   - IncludeReplyToUser: ${INCLUDE_REPLY_TO_USER_2!b}
     IncludeRetweet: ${INCLUDE_RETWEET_2!b}
