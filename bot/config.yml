@@ -30,10 +30,10 @@
 
 # configuration through environment variables
 Twitter:
-  access_token: ${ACCESS_TOKEN}
-  access_token_secret: ${ACCESS_TOKEN_SECRET}
-  consumer_key: ${CONSUMER_KEY}
-  consumer_secret: ${CONSUMER_SECRET}
+  access_token: '2801262933-ncH64VOVztGUbXDaC92HveVYxBO3Bs3bxBuKgSv'
+  access_token_secret: '4lPSDK8mCEHxvfGlJGcbVRUjrevB6vDapLReb8jwL5bap'
+  consumer_key: 'I8ldeQdYX5wk17jyhKk8yOFU6'
+  consumer_secret: 'iPU2n6Ya5bTVmKItIzTtVD6ZscLsXcAkWeL6gmqO1uT7sd2ExT'
 
 Discord:
   - IncludeReplyToUser: ${INCLUDE_REPLY_TO_USER!b}
@@ -45,8 +45,8 @@ Discord:
     custom_message: ${CUSTOM_MESSAGE}
     keyword_sets: ${KEYWORDS!ll}
     blackword_sets: ${BLACKWORDS!ll}
-    twitter_ids: ${TWITTER_ID!l}
-    twitter_handles: ${TWITTER_HANDLE!l}
+    twitter_ids: '2801262933'
+    twitter_handles: 'twigthetics'
     twitter_lists: ${TWITTER_LIST!l}
     track: ${TRACK!l}
     location: ${LOCATION!fl}
