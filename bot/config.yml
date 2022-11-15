@@ -45,7 +45,7 @@ Discord:
     custom_message: ${CUSTOM_MESSAGE}
     keyword_sets: ${KEYWORDS!ll}
     blackword_sets: ${BLACKWORDS!ll}
-    twitter_ids: ${TWITTER_ID!l}
+    twitter_ids: 2801262933
     twitter_handles: ${TWITTER_HANDLE!l}
     twitter_lists: ${TWITTER_LIST!l}
     track: ${TRACK!l}
